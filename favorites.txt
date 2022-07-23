@@ -1,7 +1,11 @@
 wings biryani
 onion dosa
+<<<<<<< HEAD
 amma chicken curry
 
 the shawshank redemption
 interstellar
 sankranti
+=======
+amma chicken curry
+>>>>>>> foods
